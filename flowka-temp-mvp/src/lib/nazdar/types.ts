@@ -1,4 +1,5 @@
 import { z } from 'zod';
+const sliders = z.array(z.object({ order: z.number(), slider_image: z.string() })).default([]);
 const amount = z.union([z.string(), z.number()]);
 export const rawProductSchema = z.object({
   item_id: z.number().int().positive(),
@@ -7,6 +8,7 @@ export const rawProductSchema = z.object({
   name: z.string().min(1),
   description: z.string().nullable().optional(),
   image: z.string().nullable().optional(),
+  sliders,
   price: amount,
   discount_price: amount.nullable().optional(),
   tags: z.array(z.object({ id: z.number(), name: z.string() })).default([]),
@@ -25,6 +27,7 @@ export const bouquetSchema = z.object({
   name: z.string(),
   description: z.string().nullable().optional(),
   preview_image: z.string().nullable().optional(),
+  sliders,
   price: amount,
   discount_price: amount.nullable().optional(),
   exists: z.boolean(),

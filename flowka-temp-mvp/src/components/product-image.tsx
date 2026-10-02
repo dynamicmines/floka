@@ -1,11 +1,12 @@
 'use client';
 import Image from 'next/image';
 import { useState } from 'react';
+import { catalogImageSizes } from '@/lib/image-sizes';
 export function ProductImage({
   src,
   name,
   priority = false,
-  sizes = '(max-width: 767px) 50vw, 25vw',
+  sizes = catalogImageSizes,
 }: {
   src?: string;
   name: string;
@@ -19,6 +20,7 @@ export function ProductImage({
       alt={name}
       fill
       sizes={sizes}
+      quality={90}
       priority={priority}
       className="object-cover"
       onError={() => setBroken(true)}

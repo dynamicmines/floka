@@ -9,6 +9,7 @@ import {
 import { menuSchema, type RawProduct } from '@/lib/nazdar/types';
 import { fetchCatalog } from '@/lib/nazdar/catalog';
 const raw: RawProduct = {
+  sliders: [],
   item_id: 4,
   item_type: 'bouquet',
   sell_item_id: 176,

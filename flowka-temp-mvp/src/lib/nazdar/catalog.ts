@@ -3,6 +3,7 @@ import { unstable_cache } from 'next/cache';
 import { apiBase, nazdarFetch } from './client';
 import { menuSchema, bouquetSchema } from './types';
 import { isInMvpScope, normalizeProduct, imageUrl, integerKzt } from './normalize';
+import { resolvePhoto, mapPhotos } from './photos';
 import type { Product } from '@/lib/product';
 export async function fetchCatalog(fresh = false): Promise<Product[]> {
   const first = menuSchema.parse(await nazdarFetch('/mobile/menu/?page=1&per_page=100', fresh));
@@ -24,10 +25,13 @@ export async function fetchCatalog(fresh = false): Promise<Product[]> {
     next = page.next;
   }
   if (raw.length < first.count) throw new Error('Incomplete Nazdar catalog');
-  const products = raw.filter(isInMvpScope).map((r) => normalizeProduct(r, apiBase()));
+  const products = await mapPhotos(raw.filter(isInMvpScope), async (r) => ({
+    ...normalizeProduct(r, apiBase()),
+    imageUrl: await resolvePhoto(r.image, r.sliders),
+  }));
   return [...new Map(products.map((p) => [p.id, p])).values()];
 }
-export const getCatalog = unstable_cache(() => fetchCatalog(), ['nazdar-catalog-v1'], {
+export const getCatalog = unstable_cache(() => fetchCatalog(), ['nazdar-catalog-v2-photos'], {
   revalidate: 300,
 });
 export async function getProduct(id: string): Promise<Product | undefined> {
@@ -42,7 +46,10 @@ export async function getProduct(id: string): Promise<Product | undefined> {
     ...product,
     name: detail.name,
     description: detail.description || product.description,
-    imageUrl: imageUrl(detail.preview_image) || product.imageUrl,
+    imageUrl: await resolvePhoto(imageUrl(detail.preview_image) || product.imageUrl, [
+      ...detail.sliders,
+      ...(product.imageUrl ? [{ order: -1, slider_image: product.imageUrl }] : []),
+    ]),
     price,
     oldPrice: price < regular ? regular : null,
     available: product.available && detail.exists,

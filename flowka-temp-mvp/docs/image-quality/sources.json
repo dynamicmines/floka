@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bouquet-4",
+    "role": "primary",
+    "url": "https://api.crm.nazdar.kz/media/preview/9H7A9782_NKyBWdP.jpg",
+    "width": 330,
+    "height": 284,
+    "format": "jpeg",
+    "bytes": 87738
+  },
+  {
+    "id": "bouquet-111",
+    "role": "primary",
+    "url": "https://api.crm.nazdar.kz/media/preview/9H7A8904.jpg",
+    "width": 328,
+    "height": 284,
+    "format": "jpeg",
+    "bytes": 55248
+  },
+  {
+    "id": "bouquet-111",
+    "role": "selected-slider",
+    "url": "https://api.crm.nazdar.kz/media/slider/9H7A8904_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+    "width": 750,
+    "height": 1626,
+    "format": "jpeg",
+    "bytes": 392387
+  },
+  {
+    "id": "product-24",
+    "role": "primary",
+    "url": "https://api.crm.nazdar.kz/media/product/9H7A3115.jpg",
+    "width": 284,
+    "height": 246,
+    "format": "jpeg",
+    "bytes": 51125
+  },
+  {
+    "id": "product-24",
+    "role": "selected-slider",
+    "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3117.jpg",
+    "width": 750,
+    "height": 1626,
+    "format": "jpeg",
+    "bytes": 538891
+  }
+]
