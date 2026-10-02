@@ -175,7 +175,13 @@ export function Checkout({ locale }: { locale: Locale }) {
                   href={`/${locale}/product/${i.externalId}`}
                   className="relative h-24 w-20 shrink-0 overflow-hidden rounded-xl bg-muted"
                 >
-                  <ProductImage src={i.imageUrl} name={i.name} sizes="80px" />
+                  <ProductImage
+                    src={i.imageUrl}
+                    dimensions={i.imageDimensions}
+                    name={i.name}
+                    sizes="80px"
+                    frameAspect={80 / 96}
+                  />
                 </Link>
                 <div className="min-w-0 flex-1">
                   <Link

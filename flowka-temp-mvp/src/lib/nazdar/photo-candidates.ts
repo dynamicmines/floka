@@ -3,7 +3,14 @@ export type PhotoDimensions = { width: number; height: number };
 export type Slider = { order: number; slider_image: string };
 export function photoUrl(path?: string | null) {
   const url = imageUrl(path);
-  return url && /\.(?:jpe?g|png|webp|avif)$/i.test(new URL(url).pathname) ? url : undefined;
+  if (!url) return undefined;
+  try {
+    if (/chatgpt|gemini_generated/i.test(decodeURIComponent(new URL(url).pathname)))
+      return undefined;
+  } catch {
+    return undefined;
+  }
+  return /\.(?:jpe?g|png|webp|avif)$/i.test(new URL(url).pathname) ? url : undefined;
 }
 export function photoCandidates(primary?: string | null, sliders: Slider[] = []) {
   return [
@@ -15,7 +22,7 @@ export function photoCandidates(primary?: string | null, sliders: Slider[] = [])
   ];
 }
 export function bestPhoto(candidates: { url: string; dimensions: PhotoDimensions | null }[]) {
-  // Resolution remaining after the existing 4:5 object-cover crop matters more than area.
+  // Prefer balanced product-photo resolution over wide banner area, even when contained.
   // Ties retain the primary photo and its current framing.
   let best = candidates[0]?.url;
   let score = 0;

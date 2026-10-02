@@ -1,8 +1,9 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
 import sharp from 'sharp';
+import { photoDisplayLimits, photoImageSizes } from '@/lib/photo-display';
 import { bestPhoto, photoCandidates } from '@/lib/nazdar/photo-candidates';
 vi.mock('next/cache', () => ({ unstable_cache: (fn: unknown) => fn }));
-import { inspectPhoto, mapPhotos, resolvePhoto } from '@/lib/nazdar/photos';
+import { inspectPhoto, mapPhotos, resolvePhoto, getPhotoDimensions } from '@/lib/nazdar/photos';
 const primary = 'https://api.crm.nazdar.kz/media/preview/main.jpg';
 const slider = 'https://api.crm.nazdar.kz/media/slider/main.jpg';
 afterEach(() => vi.unstubAllGlobals());
@@ -99,4 +100,38 @@ describe('verified product photo selection', () => {
     expect(result).toEqual([2, 4, 6, 8, 10, 12]);
     expect(maximum).toBe(4);
   });
+});
+
+it('excludes upstream files explicitly named as generated images', () => {
+  expect(
+    photoCandidates('/media/preview/ChatGPT_Image.png', [
+      { order: 1, slider_image: '/media/slider/Gemini_Generated_Image.jpg' },
+    ]),
+  ).toEqual([]);
+});
+it.each([1, 2, 3])('caps image display to real source pixels at %sx density', (density) => {
+  const limits = photoDisplayLimits({ width: 330, height: 284 }, density);
+  expect(limits.maxWidth * density).toBe(330);
+  expect(limits.maxHeight * density).toBe(284);
+});
+it('does not enlarge a sharp portrait to fill and crop a 4:5 frame', () => {
+  expect(photoDisplayLimits({ width: 750, height: 1626 }, 2)).toEqual({
+    maxWidth: 375,
+    maxHeight: 813,
+  });
+});
+
+it('sizes the full portrait content and caps requests to the verified source at Retina density', () => {
+  const sizes = photoImageSizes('512px', { width: 750, height: 1626 }, 2);
+  expect(sizes).toBe('min(295.203px, 375px)');
+  expect(photoImageSizes('512px', { width: 330, height: 284 }, 2)).toBe('min(512px, 165px)');
+});
+
+it('reuses dimensions measured from the exact supplier file without probing media during checkout', async () => {
+  const request = vi.fn();
+  vi.stubGlobal('fetch', request);
+  expect(
+    await getPhotoDimensions('https://api.crm.nazdar.kz/media/preview/9H7A9782_NKyBWdP.jpg'),
+  ).toEqual({ width: 330, height: 284 });
+  expect(request).not.toHaveBeenCalled();
 });

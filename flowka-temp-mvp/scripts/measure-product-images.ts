@@ -7,7 +7,7 @@ await mkdir(output, { recursive: true });
 const browser = await chromium.launch();
 const measurements = [];
 const allowedPhotos = new Set<string>();
-if (phase === 'after') {
+if (phase === 'after' || phase === 'framed') {
   for (const id of ['bouquet-4', 'bouquet-111', 'product-24']) {
     const response = await fetch(`http://localhost:3000/api/products/${id}`);
     if (!response.ok) throw new Error(`Product API failed: ${response.status}`);
@@ -21,7 +21,7 @@ for (const viewport of [
   for (const dpr of [1, 2, 3]) {
     const context = await browser.newContext({ viewport, deviceScaleFactor: dpr });
     const page = await context.newPage();
-    if (phase === 'after') {
+    if (phase === 'after' || phase === 'framed') {
       // Keep unrelated lazy photos from flooding Nazdar during this focused audit.
       await page.route('**/_next/image?**', (route) => {
         const source = new URL(route.request().url()).searchParams.get('url');
@@ -65,6 +65,8 @@ for (const viewport of [
             sizes: img.sizes,
             cssWidth: rect.width,
             cssHeight: rect.height,
+            frameWidth: img.parentElement!.getBoundingClientRect().width,
+            frameHeight: img.parentElement!.getBoundingClientRect().height,
             naturalWidth: img.naturalWidth,
             naturalHeight: img.naturalHeight,
           };
@@ -83,21 +85,32 @@ for (const viewport of [
           format: meta.format,
           bytes: body.length,
         };
-        if (phase === 'after') {
+        if (phase === 'after' || phase === 'framed') {
           if (new URL(info.src).searchParams.get('q') !== '90')
             throw new Error('Wrong image quality');
           if (new URL(info.src).origin !== 'http://localhost:3000')
             throw new Error('Image bypassed server');
-          const layout = await image.evaluate((el) => {
-            const rect = el.getBoundingClientRect();
+          const layout = await image.evaluate((el, framed) => {
+            const rect = (framed ? el.parentElement! : el).getBoundingClientRect();
             return { ratio: rect.width / rect.height, fit: getComputedStyle(el).objectFit };
-          });
-          if (Math.abs(layout.ratio - 0.8) > 0.001 || layout.fit !== 'cover')
+          }, phase === 'framed');
+          if (
+            Math.abs(layout.ratio - 0.8) > 0.001 ||
+            layout.fit !== (phase === 'framed' ? 'contain' : 'cover')
+          )
             throw new Error('Image layout changed');
+        }
+        if (phase === 'framed') {
+          const renderedWidth = Math.min(
+            info.cssWidth,
+            (info.cssHeight * meta.width!) / meta.height!,
+          );
+          if (renderedWidth * dpr > meta.width! + 1)
+            throw new Error('Missing physical source pixels');
         }
         measurements.push(record);
         if (dpr === 2)
-          await image.screenshot({
+          await (phase === 'framed' ? image.locator('..') : image).screenshot({
             path: `${output}/${phase}-${id}-${kind}-${viewport.width}-2x.png`,
           });
         console.log(JSON.stringify(record));

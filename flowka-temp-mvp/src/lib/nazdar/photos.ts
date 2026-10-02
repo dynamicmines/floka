@@ -1,5 +1,6 @@
 import 'server-only';
 import sharp from 'sharp';
+import verifiedDimensions from './verified-photo-dimensions.json';
 import { unstable_cache } from 'next/cache';
 import { bestPhoto, photoCandidates, type PhotoDimensions, type Slider } from './photo-candidates';
 const maximumBytes = 10 * 1024 * 1024;
@@ -49,9 +50,16 @@ export async function inspectPhoto(url: string): Promise<PhotoDimensions | null>
   }
 }
 // Only small metadata is cached, never full binary photos. The Next image optimizer delivers them.
-export const getPhotoDimensions = unstable_cache(inspectPhoto, ['nazdar-photo-dimensions-v1'], {
-  revalidate: 3600,
-});
+export const getPhotoDimensions = unstable_cache(
+  async (url: string) => {
+    // Reuse this audit's measured metadata only for the exact supplied URL, not inferred paths.
+    // Refresh the manifest with audit-supplier-photos when supplier files are replaced in place.
+    const known = (verifiedDimensions as Record<string, PhotoDimensions>)[url];
+    return known || inspectPhoto(url);
+  },
+  ['nazdar-photo-dimensions-v2-verified'],
+  { revalidate: 3600 },
+);
 export async function resolvePhoto(primary?: string | null, sliders: Slider[] = []) {
   const candidates = photoCandidates(primary, sliders);
   if (candidates.length < 2) return candidates[0];
@@ -72,4 +80,10 @@ export async function mapPhotos<T, R>(items: T[], map: (item: T) => Promise<R>):
     }),
   );
   return results;
+}
+
+export async function resolveProductPhoto(primary?: string | null, sliders: Slider[] = []) {
+  const imageUrl = await resolvePhoto(primary, sliders);
+  const imageDimensions = imageUrl ? (await getPhotoDimensions(imageUrl)) || undefined : undefined;
+  return { imageUrl, imageDimensions };
 }

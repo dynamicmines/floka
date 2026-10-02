@@ -1,5 +1,8 @@
 import sharp from 'sharp';
 const directory = 'docs/image-quality';
+const beforePhase = process.argv[2] || 'before';
+const afterPhase = process.argv[3] || 'after';
+const prefix = afterPhase === 'framed' ? 'framing-comparison' : 'comparison';
 for (const [id, kind, viewport] of [
   ['bouquet-111', 'catalog', 1440],
   ['bouquet-111', 'detail', 390],
@@ -7,8 +10,8 @@ for (const [id, kind, viewport] of [
   ['product-24', 'catalog', 1440],
 ] as const) {
   const name = `${id}-${kind}-${viewport}-2x`;
-  const before = `${directory}/before-${name}.png`;
-  const after = `${directory}/after-${name}.png`;
+  const before = `${directory}/${beforePhase}-${name}.png`;
+  const after = `${directory}/${afterPhase}-${name}.png`;
   const a = await sharp(before).metadata();
   const b = await sharp(after).metadata();
   const width = a.width! + b.width! + 16;
@@ -24,5 +27,5 @@ for (const [id, kind, viewport] of [
       { input: after, left: a.width! + 16, top: 56 },
     ])
     .png()
-    .toFile(`${directory}/comparison-${name}.png`);
+    .toFile(`${directory}/${prefix}-${name}.png`);
 }

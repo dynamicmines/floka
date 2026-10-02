@@ -1,0 +1,4603 @@
+[
+  {
+    "id": "bouquet-4",
+    "name": "Букет \"Солнце\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A9782_NKyBWdP.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A9782_NKyBWdP.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A9782_NKyBWdP.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-39",
+    "name": "21 альстромерия в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7204.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7204.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7204.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-250",
+    "name": "Букет \"Нұрасем\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/10_zuW1Dgi.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/10_zuW1Dgi.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/10_zuW1Dgi.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-40",
+    "name": "51 кустовая роза в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7137.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7137.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7137.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-36",
+    "name": "9 хризантем в корзине",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2497.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2497.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2497.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-42",
+    "name": "101 метровая роза",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7169.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7169.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7169.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-251",
+    "name": "Букет \"Інжу\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/24.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/24.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/24.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-55",
+    "name": "Букет \"Восторг\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A5032.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A5032.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A5032.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-43",
+    "name": "51 роза в оформлении · 40 см",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7095.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7095.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7095.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-51",
+    "name": "Букет «Нежность»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6981.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6981.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6981.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-44",
+    "name": "25 роза в оформлении · 40 см",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7111.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7111.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7111.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-45",
+    "name": "9 альстромерий в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7125_jIjTfII.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7125_jIjTfII.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7125_jIjTfII.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-46",
+    "name": "51 метровая роза в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7051.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7051.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7051.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-52",
+    "name": "101 роза в оформлении • 50 см",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7064_PAhuZyW.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7064_PAhuZyW.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7064_PAhuZyW.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-53",
+    "name": "15 кустовых роз в корзине",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6885.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6885.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6885.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-133",
+    "name": "Букет \"Амелия\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7587.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7587.jpg",
+        "dimensions": {
+          "width": 235,
+          "height": 294
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7587.jpg",
+    "density": 0.459375,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-27",
+    "name": "19 хризантем в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2681.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2681.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2681.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-31",
+    "name": "13 хризантем",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2607.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2607.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2607.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-104",
+    "name": "Букет \"Аружан\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3223.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3223.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3223.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-122",
+    "name": "Букет \"Данелия\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6996.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6996.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6996.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-20",
+    "name": "21 метровая роза в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A9916.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A9916.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A9916.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-19",
+    "name": "19 роз в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A9909.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A9909.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A9909.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-24",
+    "name": "15 роз без оформления",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A9836.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A9836.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A9836.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-25",
+    "name": "19 кустовых роз в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2696.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2696.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2696.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-26",
+    "name": "51 роза 50 см",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2588.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2588.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2588.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-30",
+    "name": "19 кустовых роз",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2616.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2616.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2616.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-33",
+    "name": "13 кустовых роз в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2563.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2563.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2563.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-41",
+    "name": "15 альстромерий в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7154_M4b2VIx.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7154_M4b2VIx.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7154_M4b2VIx.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-48",
+    "name": "25 роз в оформлении · 40 см",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7082.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7082.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7082.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-49",
+    "name": "31 метровых роз в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7007.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7007.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7007.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-76",
+    "name": "Букет \"Жанель\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6760.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6760.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6760.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-79",
+    "name": "Букет \"Сафия\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6838.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6838.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6838.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-197",
+    "name": "Букет «Жемчужная нежность»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/07c65abb-31ac-46de-9f39-23f2151e7343.jpeg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/07c65abb-31ac-46de-9f39-23f2151e7343.jpeg",
+        "dimensions": {
+          "width": 900,
+          "height": 1600
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/07c65abb-31ac-46de-9f39-23f2151e7343.jpeg",
+    "density": 2.5,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-69",
+    "name": "Букет \"Майя\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3001.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3001.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3001.jpg",
+    "density": 0.5546875,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-73",
+    "name": "Букет \"Амели\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3248.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3248.jpg",
+        "dimensions": {
+          "width": 168,
+          "height": 145
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3248.jpg",
+    "density": 0.328125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-267",
+    "name": "Букет \"Розовое облако\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/25_WgOOAWR.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/25_WgOOAWR.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/25_WgOOAWR.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-266",
+    "name": "Букет \"Жемчужный сад\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/22_3HkaRJJ.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/22_3HkaRJJ.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/22_3HkaRJJ.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-70",
+    "name": "Букет \"Асылым\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3048.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3048.jpg",
+        "dimensions": {
+          "width": 180,
+          "height": 156
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3048.jpg",
+    "density": 0.3515625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-77",
+    "name": "5 гортензий",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6714.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6714.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6714.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-134",
+    "name": "Букет \"Айгерим\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7634.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7634.jpg",
+        "dimensions": {
+          "width": 294,
+          "height": 294
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7634.jpg",
+    "density": 0.57421875,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-97",
+    "name": "Букет «Фиалка»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6707.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6707.jpg",
+        "dimensions": {
+          "width": 208,
+          "height": 180
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6707.jpg",
+    "density": 0.40625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-102",
+    "name": "Букет \"Дания\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3201.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3201.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3201.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-86",
+    "name": "Букет \"Айлин\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6366.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6366.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6366.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-96",
+    "name": "51 метровая роза в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6619.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6619.jpg",
+        "dimensions": {
+          "width": 208,
+          "height": 180
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6619.jpg",
+    "density": 0.40625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-101",
+    "name": "7 кустовых роз в коробке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6526.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6526.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6526.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-103",
+    "name": "5 гортензий в коробке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3213_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3213_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3213_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-15",
+    "name": "25 французских роз в коробке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3768.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3768.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3768.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-47",
+    "name": "101 роза в оформлении · 40 см",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6949_YhC5fri.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6949_YhC5fri.jpg",
+        "dimensions": {
+          "width": 4257,
+          "height": 6386
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6949_YhC5fri.jpg",
+    "density": 9.978125,
+    "adequateDetail2x": true,
+    "adequateDetail3x": true
+  },
+  {
+    "id": "bouquet-107",
+    "name": "Свадебный букет",
+    "primary": "https://api.crm.nazdar.kz/media/preview/GAID8405_vJI3lbQ.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/GAID8405_vJI3lbQ.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/GAID8405_vJI3lbQ.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-239",
+    "name": "Букет \"Меруерт \" 🤍",
+    "primary": "https://api.crm.nazdar.kz/media/preview/330284_-_6.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/330284_-_6.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/330284_-_6.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-108",
+    "name": "Свадебный микс букет",
+    "primary": "https://api.crm.nazdar.kz/media/preview/GAID8421.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/GAID8421.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/GAID8421.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-244",
+    "name": "Букет \"Қыз Жібек\" 🌷",
+    "primary": "https://api.crm.nazdar.kz/media/preview/330284_-_10_1.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/330284_-_10_1.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/330284_-_10_1.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-245",
+    "name": "Букет \"Алау\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/330284_-_11_1.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/330284_-_11_1.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/330284_-_11_1.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-62",
+    "name": "Букет \"Яркая экзотика\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A4942.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A4942.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A4942.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-32",
+    "name": "9 хризантем без оформления",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2580.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2580.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2580.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-238",
+    "name": "Букет Розовый сад 🌸",
+    "primary": "https://api.crm.nazdar.kz/media/preview/330284_-_5_deg2BTT.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/330284_-_5_deg2BTT.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/330284_-_5_deg2BTT.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-78",
+    "name": "7 гортензий",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6743.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6743.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6743.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-6",
+    "name": "15 французских роз в корзине",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A9810_pgeAtyD.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A9810_pgeAtyD.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A9810_pgeAtyD.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-7",
+    "name": "9 кустовых роз в сумочке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2952.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2952.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2952.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-61",
+    "name": "101 метровая роза в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A4932.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A4932.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A4932.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-84",
+    "name": "5 гортензий в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6424.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6424.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6424.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-98",
+    "name": "6 хризантем в зонтике",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6695.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6695.jpg",
+        "dimensions": {
+          "width": 208,
+          "height": 180
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6695.jpg",
+    "density": 0.40625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-124",
+    "name": "7 кустовых роз в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7085.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7085.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7085.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-87",
+    "name": "Букет \"Айша\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6360.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6360.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6360.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-114",
+    "name": "Букет \"Камила\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A8788.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A8788.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A8788.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-115",
+    "name": "17 альстромерий в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A8961.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A8961.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A8961.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-158",
+    "name": "Букет \"Азалия\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/IMG_0112.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/IMG_0112.png",
+        "dimensions": {
+          "width": 941,
+          "height": 1672
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/IMG_0112.png",
+    "density": 2.6125,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-125",
+    "name": "Wow Букет из 221 розы в корзине",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7063.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7063.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7063.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-207",
+    "name": "Букет «Школьная пора»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/E2C357BA-95DC-4BA2-9858-7357B666C12D.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/E2C357BA-95DC-4BA2-9858-7357B666C12D.png",
+        "dimensions": {
+          "width": 1086,
+          "height": 1448
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/slider/E2C357BA-95DC-4BA2-9858-7357B666C12D.png",
+        "dimensions": {
+          "width": 1086,
+          "height": 1448
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/E2C357BA-95DC-4BA2-9858-7357B666C12D.png",
+    "density": 2.2625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-17",
+    "name": "19 голландских роз",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A9853.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A9853.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A9853.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-56",
+    "name": "25 голландских роз в оформлении • 40 см",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A5019.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A5019.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A5019.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-50",
+    "name": "101 метровая роза в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6955.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6955.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6955.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-63",
+    "name": "101 роза в оформлении • 60 см",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A4924.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A4924.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A4924.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-75",
+    "name": "Wow — букет из 101 кустовой розы в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6775.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6775.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6775.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-28",
+    "name": "Букет \"Аяла\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2661.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2661.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2661.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-105",
+    "name": "Букет \"Адия\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3243.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3243.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3243.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-57",
+    "name": "Букет \"Симфония\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A4989.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A4989.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A4989.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-151",
+    "name": "Букет \"Жібек Сезім\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/5.180.208.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/5.180.208.jpg",
+        "dimensions": {
+          "width": 563,
+          "height": 650
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/5.180.208.jpg",
+    "density": 1.099609375,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-111",
+    "name": "Свадебный букет",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A8904.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A8904.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/slider/9H7A8904_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/slider/9H7A8904_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-116",
+    "name": "Букет \"Мадина\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A9081.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A9081.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A9081.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-81",
+    "name": "Букет из 101 розы в оформлении • 40 см",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7064_e8P8Gis.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7064_e8P8Gis.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7064_e8P8Gis.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-117",
+    "name": "Букет \"Анель\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A8991.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A8991.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A8991.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-110",
+    "name": "Свадебный букет",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A9456.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A9456.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A9456.jpg",
+    "density": 0.5546875,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-123",
+    "name": "9 кустовых роз в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7116.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7116.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7116.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-126",
+    "name": "11 кустовых роз в коробке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6975.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6975.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6975.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-119",
+    "name": "Букет \"Айгерим\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7125_BkmR3Ow.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7125_BkmR3Ow.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7125_BkmR3Ow.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-130",
+    "name": "Букет \"Жазира\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7618.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7618.jpg",
+        "dimensions": {
+          "width": 235,
+          "height": 294
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/slider/photo_5377397564421903418_y_Ba9TyY9.jpg",
+        "dimensions": {
+          "width": 1280,
+          "height": 198
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7618.jpg",
+    "density": 0.459375,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-205",
+    "name": "Букет \"Для отличника\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/ef63f8b2-89c4-4491-914e-89944582aaa7.jpeg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/ef63f8b2-89c4-4491-914e-89944582aaa7.jpeg",
+        "dimensions": {
+          "width": 728,
+          "height": 1293
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/slider/ef63f8b2-89c4-4491-914e-89944582aaa7.jpeg",
+        "dimensions": {
+          "width": 728,
+          "height": 1293
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/ef63f8b2-89c4-4491-914e-89944582aaa7.jpeg",
+    "density": 2.0203125,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-120",
+    "name": "Букет \"Жания\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7144_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7144_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7144_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-131",
+    "name": "Букет \"София\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7653.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7653.jpg",
+        "dimensions": {
+          "width": 294,
+          "height": 294
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7653.jpg",
+    "density": 0.57421875,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-121",
+    "name": "Букет \"Дария\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7101.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7101.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7101.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-249",
+    "name": "Букет «Назым»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/21.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/21.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/21.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-89",
+    "name": "Букет \"Гульзара\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6285.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6285.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6285.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-202",
+    "name": "🤍 Букет «Первый звонок»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/ChatGPT_Image_17_%D0%B0%D0%B2%D0%B3._2026_%D0%B3._13_39_13.png",
+    "candidates": [],
+    "excluded": [
+      "https://api.crm.nazdar.kz/media/preview/ChatGPT_Image_17_%D0%B0%D0%B2%D0%B3._2026_%D0%B3._13_39_13.png",
+      "/media/slider/ChatGPT_Image_17_%D0%B0%D0%B2%D0%B3._2026_%D0%B3._13_39_13.png"
+    ],
+    "detailError": "",
+    "density": 0,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-155",
+    "name": "Букет \"Томирис\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/6.180.208.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/6.180.208.jpg",
+        "dimensions": {
+          "width": 563,
+          "height": 650
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/6.180.208.jpg",
+    "density": 1.099609375,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-156",
+    "name": "Букет \"Ақнұр\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/4.180.220.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/4.180.220.jpg",
+        "dimensions": {
+          "width": 563,
+          "height": 650
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/4.180.220.jpg",
+    "density": 1.099609375,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-34",
+    "name": "25 хризантем в корзине",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2522.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2522.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2522.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-153",
+    "name": "Букет \"Айсұлу\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/10.180.208.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/10.180.208.jpg",
+        "dimensions": {
+          "width": 563,
+          "height": 650
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/10.180.208.jpg",
+    "density": 1.099609375,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-54",
+    "name": "9 хризантем в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6809.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6809.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6809.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-95",
+    "name": "13 хризантем в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6232.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6232.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6232.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-66",
+    "name": "Букет \"Айсулу\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2938.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2938.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2938.jpg",
+    "density": 0.5546875,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-247",
+    "name": "Букет «Любимой»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/19_LvnmrWT.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/19_LvnmrWT.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/19_LvnmrWT.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-248",
+    "name": "Букет «Ғашығым»  🌷",
+    "primary": "https://api.crm.nazdar.kz/media/preview/27.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/27.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/27.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-159",
+    "name": "Букет «Малиновое облако»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/IMG_0113.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/IMG_0113.png",
+        "dimensions": {
+          "width": 941,
+          "height": 1672
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/IMG_0113.png",
+    "density": 2.6125,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-201",
+    "name": "Букет «Первый звонок»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/7a44c542-7930-4891-8061-57b7d76c7669.jpeg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/7a44c542-7930-4891-8061-57b7d76c7669.jpeg",
+        "dimensions": {
+          "width": 1023,
+          "height": 1537
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/slider/7a44c542-7930-4891-8061-57b7d76c7669.jpeg",
+        "dimensions": {
+          "width": 1023,
+          "height": 1537
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/7a44c542-7930-4891-8061-57b7d76c7669.jpeg",
+    "density": 2.4015625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-160",
+    "name": "Букет «Зефирная мечта»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_38.JPG",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_38.JPG",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_38.JPG",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-132",
+    "name": "Букет \"Лейла\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7614.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7614.jpg",
+        "dimensions": {
+          "width": 235,
+          "height": 294
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7614.jpg",
+    "density": 0.459375,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-163",
+    "name": "Букет «Пудровая симфония»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/IMG_0111.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/IMG_0111.png",
+        "dimensions": {
+          "width": 941,
+          "height": 1672
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/IMG_0111.png",
+    "density": 2.6125,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-240",
+    "name": "Букет \"Нежная лилия\" 🍃",
+    "primary": "https://api.crm.nazdar.kz/media/preview/330284_-_7.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/330284_-_7.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/330284_-_7.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-165",
+    "name": "Букет «Белая элегантность»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0.png",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0.png",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-166",
+    "name": "Букет «Белый шелк»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_2.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_2.png",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_2.png",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-241",
+    "name": "Букет \"Первое свидание\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/330284_-_8.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/330284_-_8.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/330284_-_8.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-208",
+    "name": "Букет «С днем знаний»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/2C619405-BDAA-40E0-81D1-9DD5B10D59D3.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/2C619405-BDAA-40E0-81D1-9DD5B10D59D3.png",
+        "dimensions": {
+          "width": 1086,
+          "height": 1448
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/slider/2C619405-BDAA-40E0-81D1-9DD5B10D59D3.png",
+        "dimensions": {
+          "width": 1086,
+          "height": 1448
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/2C619405-BDAA-40E0-81D1-9DD5B10D59D3.png",
+    "density": 2.2625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-67",
+    "name": "Букет \"Нурия\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2954.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2954.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2954.jpg",
+    "density": 0.5546875,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-162",
+    "name": "Букет «Небесная гармония»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_44.JPG",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_44.JPG",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_44.JPG",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-209",
+    "name": "Букет «Для первого учителя»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/Gemini_Generated_Image_cmw7w8cmw7w8cmw7.jpg",
+    "candidates": [],
+    "excluded": [
+      "https://api.crm.nazdar.kz/media/preview/Gemini_Generated_Image_cmw7w8cmw7w8cmw7.jpg",
+      "/media/slider/Gemini_Generated_Image_cmw7w8cmw7w8cmw7.jpg"
+    ],
+    "detailError": "",
+    "density": 0,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-16",
+    "name": "15 французских роз в коробке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A9821.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A9821.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A9821.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-1",
+    "name": "9 кустовых роз",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6520.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6520.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6520.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-21",
+    "name": "15 французских роз в сумочке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/WhatsApp_Image_2025-08-13_at_16.17.10.jpeg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/WhatsApp_Image_2025-08-13_at_16.17.10.jpeg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/WhatsApp_Image_2025-08-13_at_16.17.10.jpeg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-242",
+    "name": "Букет \"Солнечный день\" 🌻",
+    "primary": "https://api.crm.nazdar.kz/media/preview/330284_-_9_1.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/330284_-_9_1.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/330284_-_9_1.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-203",
+    "name": "«Букет знаний»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/5221CA6B-3913-40FD-A6EF-06973842573A.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/5221CA6B-3913-40FD-A6EF-06973842573A.png",
+        "dimensions": {
+          "width": 1024,
+          "height": 1536
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/slider/5221CA6B-3913-40FD-A6EF-06973842573A.png",
+        "dimensions": {
+          "width": 1024,
+          "height": 1536
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/5221CA6B-3913-40FD-A6EF-06973842573A.png",
+    "density": 2.4,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-22",
+    "name": "15 французских роз в корзине",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A9791.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A9791.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A9791.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-8",
+    "name": "9 французских роз в коробке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3583_mN8LUed.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3583_mN8LUed.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3583_mN8LUed.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-85",
+    "name": "21 гортензия в корзине",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6383.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6383.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6383.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-72",
+    "name": "Букет \"Бота\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3240.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3240.jpg",
+        "dimensions": {
+          "width": 168,
+          "height": 145
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3240.jpg",
+    "density": 0.328125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-109",
+    "name": "21 гортензия в корзине",
+    "primary": "https://api.crm.nazdar.kz/media/preview/GAID8392.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/GAID8392.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/GAID8392.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-118",
+    "name": "Букет \"Сердце\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7003.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7003.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7003.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-198",
+    "name": "Букет «Лазурная нежность» S",
+    "primary": "https://api.crm.nazdar.kz/media/preview/bc86583d-8b1b-4b1f-8f23-b35391f13de6.jpeg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/bc86583d-8b1b-4b1f-8f23-b35391f13de6.jpeg",
+        "dimensions": {
+          "width": 1086,
+          "height": 1448
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/bc86583d-8b1b-4b1f-8f23-b35391f13de6.jpeg",
+    "density": 2.2625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-38",
+    "name": "21 голландская гортензия в корзине",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7181.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7181.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7181.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-167",
+    "name": "Букет «Алое признание»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_5.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_5.png",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_5.png",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-210",
+    "name": "Букет «На учебу в радость»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/3c48ef59-8b37-4d84-ac62-7765d9c49f5d.jpeg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/3c48ef59-8b37-4d84-ac62-7765d9c49f5d.jpeg",
+        "dimensions": {
+          "width": 960,
+          "height": 1280
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/slider/3c48ef59-8b37-4d84-ac62-7765d9c49f5d.jpeg",
+        "dimensions": {
+          "width": 960,
+          "height": 1280
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/3c48ef59-8b37-4d84-ac62-7765d9c49f5d.jpeg",
+    "density": 2,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-29",
+    "name": "25 хризантем в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2649.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2649.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2649.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-204",
+    "name": "Букет \"Здравствуй, школа!\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/96F868BE-BF73-4307-A05B-730F99BA91BA.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/96F868BE-BF73-4307-A05B-730F99BA91BA.png",
+        "dimensions": {
+          "width": 1086,
+          "height": 1448
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/slider/96F868BE-BF73-4307-A05B-730F99BA91BA.png",
+        "dimensions": {
+          "width": 1086,
+          "height": 1448
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/96F868BE-BF73-4307-A05B-730F99BA91BA.png",
+    "density": 2.2625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-37",
+    "name": "25 хризантем",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2537.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2537.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2537.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-129",
+    "name": "Букет \"Зара\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7076_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7076_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7076_%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-168",
+    "name": "Композиция «Розовое вдохновение»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_9.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_9.png",
+        "dimensions": {
+          "width": 168,
+          "height": 168
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_9.png",
+    "density": 0.328125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-171",
+    "name": "Композиция «Розовая симфония»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_12.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_12.png",
+        "dimensions": {
+          "width": 168,
+          "height": 168
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_12.png",
+    "density": 0.328125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-65",
+    "name": "Букет \"Ажар\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A4895.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A4895.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A4895.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-174",
+    "name": "Букет «Жемчужное сияние»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/IMG_0102.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/IMG_0102.png",
+        "dimensions": {
+          "width": 941,
+          "height": 1672
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/IMG_0102.png",
+    "density": 2.6125,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-12",
+    "name": "9 хризантем в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3668_wwXufHa.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3668_wwXufHa.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3668_wwXufHa.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-175",
+    "name": "Букет «Ягодная нежность»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/IMG_0101.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/IMG_0101.png",
+        "dimensions": {
+          "width": 941,
+          "height": 1672
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/IMG_0101.png",
+    "density": 2.6125,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-83",
+    "name": "101 хризантема в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6401.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6401.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6401.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-200",
+    "name": "Букет «Лазурная нежность» L",
+    "primary": "https://api.crm.nazdar.kz/media/preview/be3f512d-b840-4b17-9bed-ef2bec4b9d45.jpeg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/be3f512d-b840-4b17-9bed-ef2bec4b9d45.jpeg",
+        "dimensions": {
+          "width": 900,
+          "height": 1600
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/be3f512d-b840-4b17-9bed-ef2bec4b9d45.jpeg",
+    "density": 2.5,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-172",
+    "name": "Букет «Зефирная нежность»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_14.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_14.png",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/Nazdar_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_14.png",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-90",
+    "name": "25 хризантем в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6243.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6243.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6243.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-71",
+    "name": "Букет \"Медина\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3059.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3059.jpg",
+        "dimensions": {
+          "width": 180,
+          "height": 156
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3059.jpg",
+    "density": 0.3515625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-93",
+    "name": "11 хризантем в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6211.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6211.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6211.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-94",
+    "name": "9 хризантем в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6223.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6223.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6223.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-173",
+    "name": "Букет «Ягодный мусс»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/IMG_0103.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/IMG_0103.png",
+        "dimensions": {
+          "width": 941,
+          "height": 1672
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/IMG_0103.png",
+    "density": 2.6125,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-206",
+    "name": "«Букет для побед»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/DE70C67D-631E-4BC4-A091-559A1075CB22.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/DE70C67D-631E-4BC4-A091-559A1075CB22.png",
+        "dimensions": {
+          "width": 1086,
+          "height": 1448
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/slider/DE70C67D-631E-4BC4-A091-559A1075CB22.png",
+        "dimensions": {
+          "width": 1086,
+          "height": 1448
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/DE70C67D-631E-4BC4-A091-559A1075CB22.png",
+    "density": 2.2625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-88",
+    "name": "51 хризантема в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6297.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6297.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6297.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-91",
+    "name": "11 хризантем в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6258.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6258.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6258.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-157",
+    "name": "Букет \"Летний микс\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_40.JPG",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_40.JPG",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_40.JPG",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-135",
+    "name": "Букет \"Жанерке\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7545.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7545.jpg",
+        "dimensions": {
+          "width": 235,
+          "height": 294
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7545.jpg",
+    "density": 0.459375,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-92",
+    "name": "15 хризантем в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6277.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6277.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6277.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-113",
+    "name": "9 хризантем в оформлении",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A8864.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A8864.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A8864.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-112",
+    "name": "9 хризантем в коробке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A8837.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A8837.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A8837.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-127",
+    "name": "5 хризантем в сумочке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7017.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7017.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7017.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-199",
+    "name": "Букет «Лазурная нежность» M",
+    "primary": "https://api.crm.nazdar.kz/media/preview/7a27ad34-6b81-4b1a-b827-7d060aab91fd.jpeg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/7a27ad34-6b81-4b1a-b827-7d060aab91fd.jpeg",
+        "dimensions": {
+          "width": 900,
+          "height": 1600
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/7a27ad34-6b81-4b1a-b827-7d060aab91fd.jpeg",
+    "density": 2.5,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-60",
+    "name": "Букет \"Аяулым\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A4953.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A4953.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A4953.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-64",
+    "name": "Букет \"Жасмин\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A4913.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A4913.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A4913.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-74",
+    "name": "Букет «Шарм»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3265.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3265.jpg",
+        "dimensions": {
+          "width": 168,
+          "height": 145
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3265.jpg",
+    "density": 0.328125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-194",
+    "name": "Букет “Pink Love” S",
+    "primary": "https://api.crm.nazdar.kz/media/preview/0A6CB300-839D-4963-AD68-EEC7C8E2AE5A.png",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/0A6CB300-839D-4963-AD68-EEC7C8E2AE5A.png",
+        "dimensions": {
+          "width": 941,
+          "height": 1672
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/0A6CB300-839D-4963-AD68-EEC7C8E2AE5A.png",
+    "density": 2.6125,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-149",
+    "name": "Букет \"Наз Гүл\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/2.180.208.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/2.180.208.jpg",
+        "dimensions": {
+          "width": 563,
+          "height": 650
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/2.180.208.jpg",
+    "density": 1.099609375,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-150",
+    "name": "Букет \"Аруана\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/3.180.220.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/3.180.220.jpg",
+        "dimensions": {
+          "width": 563,
+          "height": 650
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/3.180.220.jpg",
+    "density": 1.099609375,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-152",
+    "name": "Букет \" Самал\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/7.108.208.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/7.108.208.jpg",
+        "dimensions": {
+          "width": 563,
+          "height": 650
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/7.108.208.jpg",
+    "density": 1.099609375,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-11",
+    "name": "9 хризантем в коробке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A3633_q9FUrHP.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A3633_q9FUrHP.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A3633_q9FUrHP.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-35",
+    "name": "15 хризантем в коробке",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2480.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2480.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2480.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-58",
+    "name": "Букет \"Адель\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A4977.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A4977.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A4977.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-59",
+    "name": "Букет \"Жайна\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A4962.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A4962.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A4962.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-154",
+    "name": "Букет \"Ақ Ерке\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/11.108.220.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/11.108.220.jpg",
+        "dimensions": {
+          "width": 180,
+          "height": 208
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/11.108.220.jpg",
+    "density": 0.3515625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-195",
+    "name": "Букет “Pink Love” M",
+    "primary": "https://api.crm.nazdar.kz/media/preview/6c04735e-3590-4043-93c8-1f8143c0fe98.jpeg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/6c04735e-3590-4043-93c8-1f8143c0fe98.jpeg",
+        "dimensions": {
+          "width": 900,
+          "height": 1600
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/6c04735e-3590-4043-93c8-1f8143c0fe98.jpeg",
+    "density": 2.5,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-161",
+    "name": "Букет «Белое облачко»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_42.JPG",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_42.JPG",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_42.JPG",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-164",
+    "name": "Композиция «Персиковый рассвет»",
+    "primary": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_46.JPG",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_46.JPG",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/%D0%BD%D0%B0%D0%B7%D0%B4%D0%B0%D1%80_%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%81_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_-_46.JPG",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-2",
+    "name": "9 хризантем",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2921.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2921.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2921.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-68",
+    "name": "Букет \"Нурсулу\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A2983.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A2983.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A2983.jpg",
+    "density": 0.5546875,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-80",
+    "name": "Букет \"Аниса\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A6860.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A6860.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A6860.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-128",
+    "name": "Букет \"МАМА\"",
+    "primary": "https://api.crm.nazdar.kz/media/preview/9H7A7041.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/9H7A7041.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/9H7A7041.jpg",
+    "density": 0.640625,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "bouquet-196",
+    "name": "Букет «Pink Love» L",
+    "primary": "https://api.crm.nazdar.kz/media/preview/f0dfa7bc-8554-4b03-9827-732fb4a90a5a.jpeg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/preview/f0dfa7bc-8554-4b03-9827-732fb4a90a5a.jpeg",
+        "dimensions": {
+          "width": 900,
+          "height": 1600
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/preview/f0dfa7bc-8554-4b03-9827-732fb4a90a5a.jpeg",
+    "density": 2.5,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-24",
+    "name": "Мягкая игрушка \"brown nose\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3115.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3115.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3117.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3117.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-27",
+    "name": "Мягкая игрушка \"red nose\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3103.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3103.jpg",
+        "dimensions": {
+          "width": 168,
+          "height": 145
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3100.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3100.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-29",
+    "name": "Мягкая игрушка XXL",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3107.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3107.jpg",
+        "dimensions": {
+          "width": 168,
+          "height": 145
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3111.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3111.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-58",
+    "name": "Фикус Лирата",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A5349_aXPEhiE.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A5349_aXPEhiE.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product/9H7A5349_aXPEhiE.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-68",
+    "name": "Женское счастье 70 см",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A5315.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A5315.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product/9H7A5315.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-26",
+    "name": "Игрушки",
+    "primary": "https://api.crm.nazdar.kz/media/product/25_w7ZpK1O.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/25_w7ZpK1O.jpg",
+        "dimensions": {
+          "width": 960,
+          "height": 1280
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/26.jpg",
+        "dimensions": {
+          "width": 960,
+          "height": 1280
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product/25_w7ZpK1O.jpg",
+    "density": 2,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-62",
+    "name": "Растение Шеффлера",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A5332_LrnML1V.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A5332_LrnML1V.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product/9H7A5332_LrnML1V.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-60",
+    "name": "Женское счастье 55 см",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A5323_ec1JOEP.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A5323_ec1JOEP.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product/9H7A5323_ec1JOEP.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-71",
+    "name": "Орхидея",
+    "primary": "https://api.crm.nazdar.kz/media/product/16.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/16.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/DSC09236.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1628
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/DSC09236.jpg",
+    "density": 2.54375,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-12",
+    "name": "Мягкая игрушка \"rabbit\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3212.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3212.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3216.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3216.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-14",
+    "name": "Мягкая игрушки \"capybara\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3123.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3123.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3126.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3126.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-165",
+    "name": "Мужское счастье 65 см",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A5302_iqXNyE7.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A5302_iqXNyE7.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product/9H7A5302_iqXNyE7.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-65",
+    "name": "Замиокулькас",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A5482_VVcuJLi.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A5482_VVcuJLi.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product/9H7A5482_VVcuJLi.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-56",
+    "name": "Драцена",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A5352_9cM3W6D.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A5352_9cM3W6D.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product/9H7A5352_9cM3W6D.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-72",
+    "name": "Фикус",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A5310_9DhvvuF.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A5310_9DhvvuF.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product/9H7A5310_9DhvvuF.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-13",
+    "name": "Мягкая игрушка \"pink unicorn\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3290.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3290.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3293.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3293.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-180",
+    "name": "Мягкая игрушка \"panda\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3223.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3223.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3228.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3228.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-57",
+    "name": "Каланхоэ",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A5364.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A5364.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product/9H7A5364.jpg",
+    "density": 0.64453125,
+    "adequateDetail2x": false,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-196",
+    "name": "Мягкая игрушка \"Smile\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A6668.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A6668.jpg",
+        "dimensions": {
+          "width": 208,
+          "height": 180
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A6670.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A6670.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-181",
+    "name": "Мягкая игрушка \"bear loves\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3232.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3232.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3236.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3236.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-177",
+    "name": "Мягкая игрушка dog",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3177.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3177.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3180.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3180.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-171",
+    "name": "Мягкая игрушка \"carrot\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3139.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3139.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3144.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3144.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-176",
+    "name": "Мягкая игрушка \"pink rabbit\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3171.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3171.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3174.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3174.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-199",
+    "name": "Игрушка  мягкая \"kiss\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A6688.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A6688.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A6690.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A6690.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-198",
+    "name": "Игрушка мягкая \"yellow smile\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A6676.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A6676.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A6677.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A6677.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-179",
+    "name": "Мягкая игрушка \"Кuromi\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3203.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3203.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3208.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3208.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-178",
+    "name": "Мягкая игрушка \"doll\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3194.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3194.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3198.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3198.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-172",
+    "name": "Мягкая игрушка \"green bear\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3148.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3148.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3151.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3151.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-175",
+    "name": "Мягкая игрушка \"unicorn\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3163.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3163.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3167.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3167.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-173",
+    "name": "Мягкая игрушка \"dog\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3154.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3154.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3157.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3157.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-182",
+    "name": "Мягкая игрушка \"squirrel\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3284.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3284.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3288.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3288.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-170",
+    "name": "Мягкая игрушка \"white bear\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A3129.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A3129.jpg",
+        "dimensions": {
+          "width": 284,
+          "height": 246
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A3134.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A3134.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-197",
+    "name": "Мягкая игрушка \"Smile\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/9H7A6672.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/9H7A6672.jpg",
+        "dimensions": {
+          "width": 328,
+          "height": 284
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/9H7A6674.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1626
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/9H7A6674.jpg",
+    "density": 2.540625,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-468",
+    "name": "Мягкая игрушка \"Bear love\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/7.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/7.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/DSC09240.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1628
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/DSC09240.jpg",
+    "density": 2.54375,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-467",
+    "name": "Мягкая игрушка \"Blue bear\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/17_9F29tLc.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/17_9F29tLc.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/DSC09238.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1628
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/DSC09238.jpg",
+    "density": 2.54375,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-470",
+    "name": "Мягкая игрушка \"Cute cow\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/6_bwoHwld.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/6_bwoHwld.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/DSC09243.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1627
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/DSC09243.jpg",
+    "density": 2.5421875,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-469",
+    "name": "Мягкая игрушка \"Sweet bear\"",
+    "primary": "https://api.crm.nazdar.kz/media/product/18_DYsHE3J.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/18_DYsHE3J.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/DSC09250.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1627
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/DSC09250.jpg",
+    "density": 2.5421875,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  },
+  {
+    "id": "product-473",
+    "name": "Гузмания",
+    "primary": "https://api.crm.nazdar.kz/media/product/20.jpg",
+    "candidates": [
+      {
+        "url": "https://api.crm.nazdar.kz/media/product/20.jpg",
+        "dimensions": {
+          "width": 330,
+          "height": 284
+        }
+      },
+      {
+        "url": "https://api.crm.nazdar.kz/media/product_slider/DSC09216.jpg",
+        "dimensions": {
+          "width": 750,
+          "height": 1628
+        }
+      }
+    ],
+    "excluded": [],
+    "detailError": "",
+    "selected": "https://api.crm.nazdar.kz/media/product_slider/DSC09216.jpg",
+    "density": 2.54375,
+    "adequateDetail2x": true,
+    "adequateDetail3x": false
+  }
+]

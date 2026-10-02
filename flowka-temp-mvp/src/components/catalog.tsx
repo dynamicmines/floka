@@ -118,7 +118,12 @@ export function Catalog({ products, locale }: { products: Product[]; locale: Loc
             <article key={p.id} className="flex min-w-0 flex-col">
               <Link href={`/${locale}/product/${p.id}`} className="group">
                 <div className="relative mb-3 aspect-[4/5] overflow-hidden rounded-2xl bg-muted">
-                  <ProductImage src={p.imageUrl} name={p.name} priority={i < 4} />
+                  <ProductImage
+                    src={p.imageUrl}
+                    dimensions={p.imageDimensions}
+                    name={p.name}
+                    priority={i < 4}
+                  />
                 </div>
                 <p className="mb-1 text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
                   {t[p.category]}

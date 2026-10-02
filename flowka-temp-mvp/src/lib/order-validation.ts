@@ -27,6 +27,7 @@ export function revalidateItems(
       externalId: p.externalId,
       name: p.name,
       imageUrl: p.imageUrl,
+      imageDimensions: p.imageDimensions,
       category: p.category,
       unitPrice: p.price,
       quantity,

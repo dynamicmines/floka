@@ -18,7 +18,13 @@ export function ProductDetail({ product: p, locale }: { product: Product; locale
   return (
     <div className="grid gap-8 pb-24 md:grid-cols-2 md:gap-16 md:pb-0">
       <div className="relative aspect-[4/5] overflow-hidden rounded-3xl bg-muted">
-        <ProductImage src={p.imageUrl} name={p.name} priority sizes={detailImageSizes} />
+        <ProductImage
+          src={p.imageUrl}
+          dimensions={p.imageDimensions}
+          name={p.name}
+          priority
+          sizes={detailImageSizes}
+        />
       </div>
       <div className="md:py-8">
         <p className="mb-3 text-sm text-muted-foreground">{t[p.category]}</p>

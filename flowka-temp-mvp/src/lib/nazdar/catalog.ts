@@ -3,7 +3,7 @@ import { unstable_cache } from 'next/cache';
 import { apiBase, nazdarFetch } from './client';
 import { menuSchema, bouquetSchema } from './types';
 import { isInMvpScope, normalizeProduct, imageUrl, integerKzt } from './normalize';
-import { resolvePhoto, mapPhotos } from './photos';
+import { resolveProductPhoto, mapPhotos } from './photos';
 import type { Product } from '@/lib/product';
 export async function fetchCatalog(fresh = false): Promise<Product[]> {
   const first = menuSchema.parse(await nazdarFetch('/mobile/menu/?page=1&per_page=100', fresh));
@@ -27,13 +27,17 @@ export async function fetchCatalog(fresh = false): Promise<Product[]> {
   if (raw.length < first.count) throw new Error('Incomplete Nazdar catalog');
   const products = await mapPhotos(raw.filter(isInMvpScope), async (r) => ({
     ...normalizeProduct(r, apiBase()),
-    imageUrl: await resolvePhoto(r.image, r.sliders),
+    ...(await resolveProductPhoto(r.image, r.sliders)),
   }));
   return [...new Map(products.map((p) => [p.id, p])).values()];
 }
-export const getCatalog = unstable_cache(() => fetchCatalog(), ['nazdar-catalog-v2-photos'], {
-  revalidate: 300,
-});
+export const getCatalog = unstable_cache(
+  () => fetchCatalog(),
+  ['nazdar-catalog-v4-verified-dimensions'],
+  {
+    revalidate: 300,
+  },
+);
 export async function getProduct(id: string): Promise<Product | undefined> {
   const product = (await getCatalog()).find((p) => p.id === id);
   if (!product || !id.startsWith('bouquet-')) return product;
@@ -46,10 +50,10 @@ export async function getProduct(id: string): Promise<Product | undefined> {
     ...product,
     name: detail.name,
     description: detail.description || product.description,
-    imageUrl: await resolvePhoto(imageUrl(detail.preview_image) || product.imageUrl, [
+    ...(await resolveProductPhoto(imageUrl(detail.preview_image) || product.imageUrl, [
       ...detail.sliders,
       ...(product.imageUrl ? [{ order: -1, slider_image: product.imageUrl }] : []),
-    ]),
+    ])),
     price,
     oldPrice: price < regular ? regular : null,
     available: product.available && detail.exists,

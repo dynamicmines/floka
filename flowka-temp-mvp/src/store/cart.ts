@@ -21,6 +21,7 @@ export const useCart = create<State>()(
             externalId: p.externalId,
             name: p.name,
             imageUrl: p.imageUrl,
+            imageDimensions: p.imageDimensions,
             category: p.category,
             unitPrice: p.price,
             quantity: Math.min(99, (current?.quantity || 0) + quantity),

@@ -7,6 +7,7 @@ import {
   isInMvpScope,
 } from '@/lib/nazdar/normalize';
 import { menuSchema, type RawProduct } from '@/lib/nazdar/types';
+vi.mock('next/cache', () => ({ unstable_cache: (fn: unknown) => fn }));
 import { fetchCatalog } from '@/lib/nazdar/catalog';
 const raw: RawProduct = {
   sliders: [],
@@ -100,7 +101,8 @@ describe('Nazdar normalization', () => {
       );
     vi.stubGlobal('fetch', fetch);
     expect(await fetchCatalog(true)).toHaveLength(2);
-    expect(fetch).toHaveBeenCalledTimes(2);
+    expect(fetch).toHaveBeenCalledTimes(4);
+    expect(fetch.mock.calls.filter(([url]) => String(url).includes('/mobile/menu/'))).toHaveLength(2);
     expect(fetch.mock.calls[0][1].cache).toBe('no-store');
   });
   it('refuses pagination SSRF and incomplete results', async () => {

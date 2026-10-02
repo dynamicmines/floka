@@ -135,4 +135,4 @@ No hosting account, production database or deployment was provisioned as part of
 
 Astana only; manual payment/confirmation; manual Nazdar ordering; one configured staff identity; product content is not machine-translated. No delivery zones, slot capacity management, product modifiers or other out-of-scope features. Live inventory can change after Flowka saves an order, because the upstream API does not reserve stock through this read-only integration. Staff confirm availability manually during the Nazdar handoff. Houseplants are classified as Flowers; sweets, cards, vases and envelopes are omitted from the two-category storefront. Nazdar exposes no reliable stock count when `quantity` is null. The catalog can be unavailable when its upstream dependency fails, and order submission then safely refuses to persist unverified orders.
 
-Product photo source audit, browser dimensions and before/after comparisons: [image quality report](docs/image-quality/REPORT.md).
+Product photo source audit, browser dimensions and before/after comparisons: [current originals and framing report](docs/image-quality/ORIGINALS_REPORT.md).

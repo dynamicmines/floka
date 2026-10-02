@@ -1,5 +1,7 @@
 # Product photo quality audit
 
+Historical initial audit. See [the current originals and framing report](ORIGINALS_REPORT.md) for the follow-up changes and complete supplier file request list.
+
 Verified against the live Nazdar API and a production Next.js 16.3.8 build on 2026-10-03 (Asia/Almaty).
 
 ## Cause

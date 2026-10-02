@@ -5,6 +5,7 @@ export type Product = {
   name: string;
   description: string;
   imageUrl?: string;
+  imageDimensions?: { width: number; height: number };
   price: number;
   oldPrice: number | null;
   available: boolean;
@@ -16,6 +17,7 @@ export type CartItem = {
   externalId: string;
   name: string;
   imageUrl?: string;
+  imageDimensions?: { width: number; height: number };
   category: Category;
   unitPrice: number;
   quantity: number;
