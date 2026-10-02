@@ -1,0 +1,11 @@
+node_modules
+.next
+.local-db
+.env*
+package-lock.json
+drizzle/meta
+playwright-report
+test-results
+src/assets
+
+next-env.d.ts
