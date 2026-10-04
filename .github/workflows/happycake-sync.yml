@@ -1,0 +1,36 @@
+name: HappyCake catalog sync
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/happycake-sync.yml"]
+
+permissions:
+  id-token: write
+
+concurrency:
+  group: happycake-production-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Refresh HappyCake catalog on Vercel
+        run: |
+          set -euo pipefail
+          token_json=$(curl --fail --silent --show-error \
+            --connect-timeout 10 --max-time 30 \
+            --header "Authorization: Bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
+            "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=https%3A%2F%2Fflowka.asia%2Fapi%2Fcron%2Fhappycake")
+          token=$(jq -er '.value' <<< "$token_json")
+          echo "::add-mask::$token"
+          curl --fail-with-body --silent --show-error \
+            --retry 2 --retry-delay 15 --retry-max-time 240 \
+            --connect-timeout 10 --max-time 120 \
+            --header "Authorization: Bearer $token" \
+            https://flowka.asia/api/cron/happycake
