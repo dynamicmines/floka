@@ -1,0 +1,36 @@
+name: Nazdar photo sync
+
+on:
+  schedule:
+    - cron: "2,17,32,47 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/photo-sync.yml"]
+
+permissions:
+  id-token: write
+
+concurrency:
+  group: nazdar-production-photos
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Refresh optimized photos on Vercel
+        run: |
+          set -euo pipefail
+          token_json=$(curl --fail --silent --show-error \
+            --connect-timeout 10 --max-time 30 \
+            --header "Authorization: Bearer $ACTIONS_ID_TOKEN_REQUEST_TOKEN" \
+            "$ACTIONS_ID_TOKEN_REQUEST_URL&audience=https%3A%2F%2Fflowka.asia%2Fapi%2Fcron%2Fphotos")
+          token=$(jq -er '.value' <<< "$token_json")
+          echo "::add-mask::$token"
+          curl --fail-with-body --silent --show-error \
+            --retry 1 --retry-delay 15 --retry-max-time 550 \
+            --connect-timeout 10 --max-time 280 \
+            --header "Authorization: Bearer $token" \
+            https://flowka.asia/api/cron/photos
